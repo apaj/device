@@ -3,3 +3,5 @@ This is a very important device.
 I have improved this device.
 
 Now adding a new feature.
+
+Finishing the first round of device deveopment.
